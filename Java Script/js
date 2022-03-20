@@ -1,0 +1,68 @@
++medium devices(min-width:768px)
++large devices(min-width:992px)
++extra large devices(min-width:1200px)
+
+
+
+###java script
+
++js is text based scripting language
++it is a single threaded(light weight) language
++it supports oops concepts
++ECMA script(ES)-1.0
++most important versions are ECMA script-5 & 6
++provides dynamic web pages
+
+####Datatypes of js
+    
+    -primitive data types
+        -Number=handle number values
+        -script
+        -boolean
+        -null
+        -undefined
+        -Bigint(2^53-1)
+    -non primitive data types
+        -Arrays
+        -objects (functions)
+        -
+
+
++ typeof() -->checks the data type which was fiven to that functions
+
+####variables
+   Diiference b/w var,let,const
+
+    -var -->function level(can be redefined,redeclared)
+    -let --> Block level(can't redefine,redeclared)
+    -const --> block level(can't redefine,redeclared)
+
+
+####Default funtions for typecasting
+  
+      -parseInt()
+      -parseFloat()
+
+####Alerts
+
+     -prompt
+     -Alerts
+     -confirm
+
+####console statements
+
+    -` console.log()` -->displays the information
+    -` console.info()` -->"  "   "   "   "    "
+    -` console.warn()` -->warning about apps installation
+    -` console.error()`-->shows errors
+
+
+
+#####Arrays
+
+
+
+#####objects
+  
+
+    -
